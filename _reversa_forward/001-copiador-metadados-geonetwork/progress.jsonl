@@ -1,0 +1,14 @@
+{"ts":"2026-09-23T12:26:00-03:00","action":"T001","status":"done","files":["app/__init__.py","app/main.py"]}
+{"ts":"2026-09-23T12:28:00-03:00","action":"T002","status":"done","files":["app/modelos.py"]}
+{"ts":"2026-09-23T12:32:00-03:00","action":"T003","status":"done","files":["tests/test_scanner.py"]}
+{"ts":"2026-09-23T12:33:00-03:00","action":"T004","status":"done","files":["tests/test_motor.py"]}
+{"ts":"2026-09-23T12:34:00-03:00","action":"T005","status":"done","files":["tests/test_relatorio.py"]}
+{"ts":"2026-09-23T12:38:00-03:00","action":"T006","status":"done","files":["app/scanner.py"]}
+{"ts":"2026-09-23T12:40:00-03:00","action":"T007","status":"done","files":["app/motor.py"]}
+{"ts":"2026-09-23T12:42:00-03:00","action":"T008","status":"done","files":["app/relatorio.py"]}
+{"ts":"2026-09-23T12:50:00-03:00","action":"T009","status":"done","files":["app/interface.py"]}
+{"ts":"2026-09-23T12:52:00-03:00","action":"T010","status":"done","files":["app/main.py"]}
+{"ts":"2026-09-23T12:54:00-03:00","action":"T011","status":"done","files":["copiador.spec"]}
+{"ts":"2026-09-23T13:10:00-03:00","action":"T012","status":"done","files":["tests/"],"detail":"26 testes OK (0 falhas); re-verde apos T013"}
+{"ts":"2026-09-23T13:12:00-03:00","action":"T013","status":"done","files":["app/interface.py"],"detail":"corrigido rotulo pos-conclusao; cabecalho de cancelamento; flag _falhou"}
+{"ts":"2026-09-23T13:18:00-03:00","action":"T014","status":"done","files":["app/"],"detail":"smoke automatizado 5/5; teste visual interativo fica com o usuario via onboarding.md"}
